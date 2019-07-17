@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppPeliculasComics</string>
+    <string name="sin_descripcion">Lo sentimos,No Existe descripcion en la base de Datos</string>
+</resources>
